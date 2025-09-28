@@ -6,3 +6,5 @@ venv/
 *.swp
 *~
 tmp/
+info.txt
+scores.json
